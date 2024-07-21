@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! I am Anirudh Nayak, a Full-Stack Developer</h2>
 
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+
 ###
 
 <div align="center">
@@ -65,11 +67,5 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/para-commando/para-commando/output/snake.svg)
-
-###
+ 
 
