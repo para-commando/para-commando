@@ -1,6 +1,11 @@
-<h2 align="left">Hi 👋! I am Anirudh Nayak, a Full-Stack Developer</h2>
-
-###
+<div style="display: flex; align-items: center; justify-content: center; padding: 20px;">
+  <h1 style="font-size: 32px; margin: 0;">
+    Hello 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="45" height="45" style="vertical-align: middle; margin-bottom: -5px;" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="45" height="45" style="vertical-align: middle; margin-bottom: -5px;" /> 
+    I am Anirudh Nayak, a Full-Stack Developer  
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="65" height="65" style="vertical-align: middle; margin-bottom: -5px;" /> 
+  </h1>
+</div>
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=para-commando&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
@@ -8,8 +13,6 @@
   <img src="https://streak-stats.demolab.com?user=para-commando&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
     <img alt=" " height="200" width="300" src="https://github.com/user-attachments/assets/9150a28c-e6bd-463c-8bb3-05842490672b" />
 </div>
-
-###
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <!-- Front-end Technologies -->
