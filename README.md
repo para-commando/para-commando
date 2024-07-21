@@ -77,6 +77,6 @@
   </a>
 </div>
 
- 
+
 
 ![Snake animation](https://raw.githubusercontent.com/para-commando/para-commando/output/snake.svg)
